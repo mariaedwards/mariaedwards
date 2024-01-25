@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌟 As a user, I 💛💛💛💛 great UX and beautiful, simple, and functional UIs; that is why, as a developer, for my work, I strive to achieve this self-set standard of a delightful UI/UX - accessible, usable, beautiful, secure, performant and useful for the end-users.
-- 🔭 Past 2 years I've been working on a large **python**/**flask**/**GCP** project in an exciting HR SaaS startup.
+- 🔭 Past 2 years I've been working with **python**/**flask**/**GCP** stack in an exciting HR SaaS startup.
 - 🌱 I’m currently learning **typescript** and **next.js 14**.
 - ⚡ Fun fact: I'm self-taught and learned by building a startup
 
