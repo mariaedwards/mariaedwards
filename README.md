@@ -8,11 +8,11 @@ I am Maria, and I've been developing professionally for 8+ years. I am a general
 
 - Frontend 💛:
   - JavaScript, React, CSS, SCSS, Tailwind CSS, semantic HTML, accessiblity (WCAG)
-  - Exploring: Next.js, TypeScript.
+  - Exploring: Next.js, TypeScript
   - Old stuff: jQuery, Backbone.js
   - Data visualization: Highcharts, D3.js
   - Testing: Jest, React Testing Library
 - Backend Skills: Python, Flask, FastAPI, Pydantic, SQLAlchemy
-- Data Stuff: PostgreSQL, NDB / Datastore.
-- Cloud: GCP.
+- Data Stuff: PostgreSQL, NDB / Datastore
+- Cloud: GCP
 
